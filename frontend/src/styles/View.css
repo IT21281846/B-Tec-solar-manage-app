@@ -1,0 +1,18 @@
+.background-container {
+    background-image: url('https://coldwellsolar.com/wp-content/uploads/2023/02/industrial-plant-solar-system.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 92vh; /* Adjust the height as needed */
+    
+}
+
+.your-form {
+    /* Add any additional styling for your form */
+    background-color: rgba(255, 255, 255, 0.4); /* Adjust the background color and opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bg-green {
+    background-color: #81AB44; /* Change this to the shade of green you prefer */
+}
